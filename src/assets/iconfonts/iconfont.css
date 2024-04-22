@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4481677 */
+  src: url('//at.alicdn.com/t/c/font_4481677_h6l0o7jtwim.eot?t=1712563401692'); /* IE9 */
+  src: url('//at.alicdn.com/t/c/font_4481677_h6l0o7jtwim.eot?t=1712563401692#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('//at.alicdn.com/t/c/font_4481677_h6l0o7jtwim.woff2?t=1712563401692') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4481677_h6l0o7jtwim.woff?t=1712563401692') format('woff'),
+       url('//at.alicdn.com/t/c/font_4481677_h6l0o7jtwim.ttf?t=1712563401692') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4481677_h6l0o7jtwim.svg?t=1712563401692#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-send:before {
+  content: "\e7fe";
+}
+
+.icon-guanbi:before {
+  content: "\e662";
+}
+
+.icon-luopan:before {
+  content: "\e67d";
+}
